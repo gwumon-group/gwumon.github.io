@@ -1,2 +1,2 @@
 # gwumon
-out blog
+our blog
